@@ -1,14 +1,14 @@
 {
 	"info": {
-		"_postman_id": "016da36a-2ea0-4623-8f58-f1e5dd63cbde",
-		"name": "col1",
+		"_postman_id": "50c1fb6c-1fb1-4443-a30d-25bce1eef818",
+		"name": "col1 Copy",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "737003-016da36a-2ea0-4623-8f58-f1e5dd63cbde"
+		"_uid": "737003-50c1fb6c-1fb1-4443-a30d-25bce1eef818"
 	},
 	"item": [
 		{
 			"name": "req1",
-			"id": "89b2efe5-4bc1-44ae-9e1a-3faba669c955",
+			"id": "53a82d80-e77c-42ba-8412-c3cf1f965a57",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -29,7 +29,7 @@
 			},
 			"response": [
 				{
-					"id": "e038f972-83db-41a8-8005-189f526f3018",
+					"id": "f65c420b-5db8-4eb5-98d7-516a92f4d03d",
 					"name": "res1",
 					"originalRequest": {
 						"method": "GET",
@@ -82,7 +82,7 @@
 		},
 		{
 			"name": "req1 Copy",
-			"id": "b9c3d466-5c55-4b0a-bd85-e961c5173749",
+			"id": "df1b073f-985e-4845-9763-18aa8ad77296",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -103,7 +103,7 @@
 			},
 			"response": [
 				{
-					"id": "97266d0e-794b-47b5-a47e-498cd768aabe",
+					"id": "f620959f-e0a4-444f-8d5b-6a253635b94c",
 					"name": "res1",
 					"originalRequest": {
 						"method": "GET",
@@ -156,7 +156,7 @@
 		},
 		{
 			"name": "req1 Copy 2",
-			"id": "d7b0dff7-67f9-4060-b4b0-0ac386924e8e",
+			"id": "f27d7f93-802d-459f-ad67-7d437bf28ba8",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -177,7 +177,7 @@
 			},
 			"response": [
 				{
-					"id": "46b46add-683e-4dd5-b5fe-1341a4b0b201",
+					"id": "e8a55f49-6435-4c51-83f1-242f6bf19e60",
 					"name": "res1",
 					"originalRequest": {
 						"method": "GET",
@@ -230,7 +230,7 @@
 		},
 		{
 			"name": "req1 Copy 3",
-			"id": "db68574b-e552-4969-a738-fc717d9597f9",
+			"id": "b1043ecd-a86b-4815-8b9e-426967aa39b4",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -251,7 +251,7 @@
 			},
 			"response": [
 				{
-					"id": "72cac6d5-508b-40ff-856e-410e5b2eda12",
+					"id": "a8ecafe1-d44d-4308-b691-f11ccfdb471a",
 					"name": "res1",
 					"originalRequest": {
 						"method": "GET",
