@@ -1,0 +1,84 @@
+{
+	"info": {
+		"_postman_id": "016da36a-2ea0-4623-8f58-f1e5dd63cbde",
+		"name": "col1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "737003-016da36a-2ea0-4623-8f58-f1e5dd63cbde"
+	},
+	"item": [
+		{
+			"name": "req1",
+			"id": "89b2efe5-4bc1-44ae-9e1a-3faba669c955",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "www.postman-echo.com/get",
+					"host": [
+						"www",
+						"postman-echo",
+						"com"
+					],
+					"path": [
+						"get"
+					]
+				}
+			},
+			"response": [
+				{
+					"id": "e038f972-83db-41a8-8005-189f526f3018",
+					"name": "res1",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "www.postman-echo.com/get",
+							"host": [
+								"www",
+								"postman-echo",
+								"com"
+							],
+							"path": [
+								"get"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Date",
+							"value": "Fri, 07 Oct 2022 12:39:28 GMT"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Content-Length",
+							"value": "504"
+						},
+						{
+							"key": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"key": "ETag",
+							"value": "W/\"1f8-HJh3njOa4/Ev4hCyfl3FDGpT7qE\""
+						},
+						{
+							"key": "Vary",
+							"value": "Accept-Encoding"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"args\": {},\n    \"headers\": {\n        \"x-forwarded-proto\": \"http\",\n        \"x-forwarded-port\": \"80\",\n        \"host\": \"www.postman-echo.com\",\n        \"x-amzn-trace-id\": \"Root=1-63401e00-7faccee47e76feaa34488c13\",\n        \"content-length\": \"0\",\n        \"user-agent\": \"PostmanRuntime/7.29.2\",\n        \"accept\": \"*/*\",\n        \"cache-control\": \"no-cache\",\n        \"postman-token\": \"71aba192-3e11-4e63-b65a-ba705aa739fe\",\n        \"accept-encoding\": \"gzip, deflate, br\",\n        \"cookie\": \"sails.sid=s%3AlLPyl7cAqNtyfezWeX7b-N7QBJ1ehqt2.KzCzUDSSWfO%2Bdak8E32U2xLWUfwjIvkiHj8wY8sm%2FPA\"\n    },\n    \"url\": \"http://www.postman-echo.com/get\"\n}"
+				}
+			]
+		}
+	]
+}
