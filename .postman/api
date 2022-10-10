@@ -4,9 +4,10 @@ id = 817be3e2-4f84-4013-960f-8d71fd51eb38
 
 [relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"a657ec69-ba36-42e0-af89-53c8177fe11a","path":"col1 Copy 2.json","metaData":{}}
-files[] = {"id":"50c1fb6c-1fb1-4443-a30d-25bce1eef818","path":"col1 Copy.json","metaData":{}}
-files[] = {"id":"016da36a-2ea0-4623-8f58-f1e5dd63cbde","path":"New Collection.json","metaData":{}}
+files[] = {"id":"737003-79a4ade1-4e2d-44cb-903d-0b4d826fc582","path":"col1 Copy 2.json","metaData":{}}
+files[] = {"id":"737003-6cc21c89-858f-4696-b4c7-d9ebc8295992","path":"col1 Copy 3.json","metaData":{}}
+files[] = {"id":"737003-0ea6fe97-c357-4035-b815-4c621eefea1c","path":"col1 Copy.json","metaData":{}}
+files[] = {"id":"737003-e71da5dc-2515-4aa5-99e9-9e39cd09a830","path":"New Collection.json","metaData":{}}
 
 [relations.collections.metaData]
 
@@ -16,3 +17,4 @@ files[] = {"path":"index.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
+rootFiles[] = index.yaml

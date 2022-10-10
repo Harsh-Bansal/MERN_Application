@@ -1,14 +1,14 @@
 {
 	"info": {
-		"_postman_id": "e71da5dc-2515-4aa5-99e9-9e39cd09a830",
-		"name": "col1",
+		"_postman_id": "6cc21c89-858f-4696-b4c7-d9ebc8295992",
+		"name": "col1 Copy 3",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "737003-e71da5dc-2515-4aa5-99e9-9e39cd09a830"
+		"_uid": "737003-6cc21c89-858f-4696-b4c7-d9ebc8295992"
 	},
 	"item": [
 		{
 			"name": "req1",
-			"id": "12ecb0e6-5181-4bc5-a7ff-9461daa2cf11",
+			"id": "9b8c8c43-db99-4c72-bd75-b9e8de7c2061",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -29,7 +29,7 @@
 			},
 			"response": [
 				{
-					"id": "2f1bd9bc-d0af-41d3-b58d-0a16ef56f2d6",
+					"id": "7983dc97-d3bd-49d0-9b5b-a773bc2e4984",
 					"name": "res1",
 					"originalRequest": {
 						"method": "GET",
@@ -49,7 +49,6 @@
 					"status": "OK",
 					"code": 200,
 					"_postman_previewlanguage": "json",
-					"_postman_previewtype": "html",
 					"header": [
 						{
 							"key": "Date",
@@ -83,7 +82,7 @@
 		},
 		{
 			"name": "req1 Copy",
-			"id": "878931f0-1127-4bfc-99b3-c1bed02bad0d",
+			"id": "53d90e52-6644-4000-9762-de8eb9666ebf",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -104,7 +103,7 @@
 			},
 			"response": [
 				{
-					"id": "8e201d20-269d-4308-a4f1-dc0176bbe0f3",
+					"id": "2a9b2be2-0752-479a-a783-c5301d5c7db1",
 					"name": "res1",
 					"originalRequest": {
 						"method": "GET",
@@ -124,7 +123,6 @@
 					"status": "OK",
 					"code": 200,
 					"_postman_previewlanguage": "json",
-					"_postman_previewtype": "html",
 					"header": [
 						{
 							"key": "Date",
@@ -158,7 +156,7 @@
 		},
 		{
 			"name": "req1 Copy 2",
-			"id": "1e515664-6d96-4d02-a42f-9ba326ca510c",
+			"id": "a9a20836-09b4-45fd-8725-fc9384606bd7",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -179,7 +177,7 @@
 			},
 			"response": [
 				{
-					"id": "74255bc9-b3c6-425f-a0e8-8c1483b341f3",
+					"id": "e5a6f161-3b22-4a12-a419-1701dc73df84",
 					"name": "res1",
 					"originalRequest": {
 						"method": "GET",
@@ -199,7 +197,6 @@
 					"status": "OK",
 					"code": 200,
 					"_postman_previewlanguage": "json",
-					"_postman_previewtype": "html",
 					"header": [
 						{
 							"key": "Date",
@@ -233,7 +230,7 @@
 		},
 		{
 			"name": "req1 Copy 3",
-			"id": "d58c85c1-fb04-437f-9e5c-83e37fb8f4c2",
+			"id": "d33f3e26-e816-41f6-ad83-f64d8695102a",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -254,7 +251,7 @@
 			},
 			"response": [
 				{
-					"id": "bb0e7868-84e1-4aca-87fe-e20487c90fdb",
+					"id": "4bb0a28e-cc1a-4b91-b7ec-e06fd25f3bdd",
 					"name": "res1",
 					"originalRequest": {
 						"method": "GET",
@@ -274,7 +271,6 @@
 					"status": "OK",
 					"code": 200,
 					"_postman_previewlanguage": "json",
-					"_postman_previewtype": "html",
 					"header": [
 						{
 							"key": "Date",

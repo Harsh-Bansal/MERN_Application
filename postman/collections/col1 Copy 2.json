@@ -1,14 +1,14 @@
 {
 	"info": {
-		"_postman_id": "a657ec69-ba36-42e0-af89-53c8177fe11a",
+		"_postman_id": "79a4ade1-4e2d-44cb-903d-0b4d826fc582",
 		"name": "col1 Copy 2",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "737003-a657ec69-ba36-42e0-af89-53c8177fe11a"
+		"_uid": "737003-79a4ade1-4e2d-44cb-903d-0b4d826fc582"
 	},
 	"item": [
 		{
 			"name": "req1",
-			"id": "a8bc25da-89bf-4e74-b1a7-219476a0f0e7",
+			"id": "368dbd00-fa2a-4a02-bd5b-2ff3b8a21fa0",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -29,7 +29,7 @@
 			},
 			"response": [
 				{
-					"id": "f9b54db5-cdf6-47ac-a645-6fdcb7274e7b",
+					"id": "5c5a98e5-c21d-45e3-add0-aa12159957aa",
 					"name": "res1",
 					"originalRequest": {
 						"method": "GET",
@@ -49,6 +49,7 @@
 					"status": "OK",
 					"code": 200,
 					"_postman_previewlanguage": "json",
+					"_postman_previewtype": "html",
 					"header": [
 						{
 							"key": "Date",
@@ -82,7 +83,7 @@
 		},
 		{
 			"name": "req1 Copy",
-			"id": "71dd8906-0449-4752-b779-45fb06cf3377",
+			"id": "614aa69c-3dfd-4e06-b23b-560e11b39c39",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -103,7 +104,7 @@
 			},
 			"response": [
 				{
-					"id": "6dfedea8-adfe-4985-99d4-af9c166ae0e5",
+					"id": "0c00e6e0-47f3-477b-9e6c-37aba0319b5b",
 					"name": "res1",
 					"originalRequest": {
 						"method": "GET",
@@ -123,6 +124,7 @@
 					"status": "OK",
 					"code": 200,
 					"_postman_previewlanguage": "json",
+					"_postman_previewtype": "html",
 					"header": [
 						{
 							"key": "Date",
@@ -156,7 +158,7 @@
 		},
 		{
 			"name": "req1 Copy 2",
-			"id": "c3ad52ab-fd09-4806-b7ad-9bc998d56ae6",
+			"id": "dc4acde0-a97c-4842-8f6b-f6d0cdf39027",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -177,7 +179,7 @@
 			},
 			"response": [
 				{
-					"id": "b00d84ef-7fb7-4f5c-a817-b14fb0ffc865",
+					"id": "b8bdc58f-ac35-46f5-86d3-206306e8e829",
 					"name": "res1",
 					"originalRequest": {
 						"method": "GET",
@@ -197,6 +199,7 @@
 					"status": "OK",
 					"code": 200,
 					"_postman_previewlanguage": "json",
+					"_postman_previewtype": "html",
 					"header": [
 						{
 							"key": "Date",
@@ -230,7 +233,7 @@
 		},
 		{
 			"name": "req1 Copy 3",
-			"id": "12c2b4fd-bd16-4870-bd18-aaa770198bf7",
+			"id": "8a0d79ca-093a-418d-b970-501aed1df32d",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -251,7 +254,7 @@
 			},
 			"response": [
 				{
-					"id": "f2197217-213d-4835-9f65-c5159aae8352",
+					"id": "c18e9064-be9b-472b-a0d4-9c8b4e2a52e7",
 					"name": "res1",
 					"originalRequest": {
 						"method": "GET",
@@ -271,6 +274,7 @@
 					"status": "OK",
 					"code": 200,
 					"_postman_previewlanguage": "json",
+					"_postman_previewtype": "html",
 					"header": [
 						{
 							"key": "Date",
